@@ -46,3 +46,7 @@ end
 #     end
 #   end
 # end
+
+def add_s(array)
+  
+end
